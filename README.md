@@ -1,2 +1,4 @@
-# leetcodes-
-那些年刷过的leetcode
+# leetcodes
+那些年刷过的leetcode  
+主要是想对自己刷过的题做个记录，也给他人做个参考  
+希望能尽可能的丰富每道题的解答
